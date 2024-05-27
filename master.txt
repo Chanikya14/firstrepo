@@ -1,3 +1,6 @@
 learning git
 first file
-modified jyguy
+modified jyguyi
+
+From second branch:
+	Hi, I'm second
